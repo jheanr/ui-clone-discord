@@ -1,7 +1,7 @@
 ## About
 Discord UI clone (partial) for study purposes.
 
-Click [here](https://ui-clone-discord-ramos.netlify.app/) for live preview.
+To see a demo, click [here](https://ui-clone-discord-ramos.netlify.app/).
 
 ## Techs
 - [x] React.js
